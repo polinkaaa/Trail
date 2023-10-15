@@ -10,7 +10,7 @@
     <string name="bathhouse_desc">Баня \"Дымная\"\nГрафик\nОписание объекта</string>
     <string name="description_bathhouse">bathhouse</string>
     <string name="open_map">Открыть карту</string>
-    <string name="hello_user">Привет, Polina%s</string>
+    <string name="hello_user">Привет, %s</string>
     <string name="tour_base_name">Добрынино</string>
     <string name="tour_base_description">Эко-отель в лесу\nМолоко альпийских коз\nКозий сыр ручной работы\nЭкскурсии по ферме\nПроизводство полезных натуральных продуктов и приобщение населения к традиционным культурным ценностям Ярославской области!</string>
 </resources>

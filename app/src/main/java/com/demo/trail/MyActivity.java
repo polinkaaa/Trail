@@ -42,7 +42,7 @@ public class MyActivity extends AppCompatActivity {
         if (intent != null && intent.hasExtra("name")) {
             name = intent.getStringExtra("name");
         }
-        textViewName.setText(String.format(getString(R.string.hello_user), ""));
+        textViewName.setText(String.format(getString(R.string.hello_user), name));
         textViewNameOfTourBase.setText(getString(R.string.tour_base_name));
         textViewDescriptionOfTourBase.setText(getString(R.string.tour_base_description));
     }
